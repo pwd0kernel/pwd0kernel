@@ -1,6 +1,6 @@
 ### Hi there 👋
   - What i know:
-    - ![C++](https://img.shields.io/badge/-Reverse%20Engineering-fff?&logo=Reverse&logoColor=00599C)
+    - ![Reverse](https://img.shields.io/badge/-Reverse%20Engineering-fff?&logo=Reverse&logoColor=00599C)
     - ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
     - ![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)
     - ![CSharp](https://img.shields.io/badge/-Swift-fff?&logo=Swift&logoColor=00599C)
