@@ -6,6 +6,12 @@
     - Swift
   - What i do:
     - Find Exploits & Vulnerabilities
+
+<details open>
+  <summary>Repo List</summary>
+  <p>No repo yet lol</p>
+</details>
+
 <!--
 **pwd0kernel/pwd0kernel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
