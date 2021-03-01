@@ -7,7 +7,7 @@
   - What i do:
     - Find Exploits & Vulnerabilities
 
-<details open>
+<details Closed>
   <summary>Repo List</summary>
   <p>No repo yet lol</p>
 </details>
