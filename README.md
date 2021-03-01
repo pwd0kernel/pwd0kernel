@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+  - What i know:
+    - Reverse Engineering
+    - C++
+    - C#
+    - Swift
+  - What i do:
+    - Find Exploits & Vulnerabilities
 <!--
 **pwd0kernel/pwd0kernel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
