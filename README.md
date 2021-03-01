@@ -13,7 +13,7 @@
 
 <details Closed>
   <summary>Repo List</summary>
-  <p>No repo yet lol</p>
+  <a href="https://github.com/pwd0kernel/Prison-Architect-Execution">Prison-Architect-Execution</a>
 </details>
 
 <!--
