@@ -5,7 +5,7 @@
     - ![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)
     - ![CSharp](https://img.shields.io/badge/-Swift-fff?&logo=Swift&logoColor=00599C)
   - What i do:
-    - Find Exploits & Vulnerabilities
+    - Make Exploits & Find Vulnerabilities
 
 ![](https://komarev.com/ghpvc/?username=pwd0kernel&color=brightgreen&style=flat)
 
