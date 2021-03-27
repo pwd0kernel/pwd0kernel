@@ -13,6 +13,6 @@
 
 <details Closed>
   <summary>Repo List</summary>
-  <a href="https://github.com/pwd0kernel/Prison-Architect-Execution">Prison-Architect-Execution</a>
+  <a href="https://github.com/pwd0kernel/Prison-Architect-Execution">Prison-Architect-Execution</a><br>
   <a href="https://github.com/pwd0kernel/CloudScript-Downloader">CloudScript Downloader</a>
 </details>
