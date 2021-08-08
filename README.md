@@ -24,3 +24,7 @@
   <a href="https://github.com/pwdsec/Lynx-Exploit-DB">Lynx Exploit DB</a><br>
   <a href="https://github.com/pwdsec/CloudScript-Scraper-CSharp">CloudScript Scraper CSharp</a><br>
 </details>
+
+-------
+
+![](https://cdn.discordapp.com/attachments/816848539685486597/873751155157659688/discord_card_-_github.png)
