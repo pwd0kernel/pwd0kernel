@@ -19,8 +19,8 @@
 <details Closed>
   <summary>pwdsec Repo List</summary>
   <a href="https://github.com/pwdsec/pwd0console">pwd0console</a><br>
-  <a href="https://github.com/pwdsec/CloudScript-Scraper">CloudScript Scraper</a>
-  <a href="https://github.com/pwdsec/Magnius-Automated">Magnius Automated</a>
-  <a href="https://github.com/pwdsec/Lynx-Exploit-DB">Lynx Exploit DB</a>
-  <a href="https://github.com/pwdsec/CloudScript-Scraper-CSharp">CloudScript Scraper CSharp</a>
+  <a href="https://github.com/pwdsec/CloudScript-Scraper">CloudScript Scraper</a><br>
+  <a href="https://github.com/pwdsec/Magnius-Automated">Magnius Automated</a><br>
+  <a href="https://github.com/pwdsec/Lynx-Exploit-DB">Lynx Exploit DB</a><br>
+  <a href="https://github.com/pwdsec/CloudScript-Scraper-CSharp">CloudScript Scraper CSharp</a><br>
 </details>
